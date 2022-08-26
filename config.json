@@ -1,5 +1,5 @@
 {
-    "ownerNumber": ["6289505054287@s.whatsapp.net","62895410735736@s.whatsapp.net"],
+    "ownerNumber": ["6289505054287@s.whatsapp.net","6289512810601@s.whatsapp.net"],
     "ownerName": "Raja Dev",
     "instagram" : "ga punya ig tapi punya kamu😝",
     "botName": "Patrick-Md",
@@ -9,7 +9,7 @@
     "BotKey": "V12",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
-    "autobio": true,
+    "autobio": false,
     "anticall": true,
     "autorespond": false,
     "autoblok212": true,
